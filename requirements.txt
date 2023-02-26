@@ -1,0 +1,14 @@
+flax
+dm-haiku
+jax
+jaxlib
+matplotlib
+numpy
+optax
+scikit-learn
+torch
+torchvision
+tqdm
+tueplots
+ipykernel
+jupyter
